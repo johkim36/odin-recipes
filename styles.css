@@ -1,0 +1,27 @@
+button{
+
+color: white;
+font-size: x-large;
+font-family:'Courier New', Courier, monospace;
+
+}
+title{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.home{
+    background-color: lightgreen;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
